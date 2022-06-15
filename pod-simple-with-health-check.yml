@@ -4,7 +4,7 @@ apiVersion: v1
 kind: Pod
 metadata:
   name: nnappone
-  namespace: learning
+  namespace: bookinfo
   labels:
    app: nnappone
 spec:
